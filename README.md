@@ -2,5 +2,5 @@
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="![alt text](image.png)" alt="">
+    <img src="/Javascript.gif" alt="">
   </a>
